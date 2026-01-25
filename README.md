@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergraduate | Learning by Building</h3>
 
 <br/>
-<p aling="center">
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1000&color=36BCF7&lines=Computer+Science+Student;Exploring+AI+%26+ML;Learning+One+Repo+at+a+Time)
 </p>
 
