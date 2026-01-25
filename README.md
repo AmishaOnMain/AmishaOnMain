@@ -3,7 +3,8 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1000&color=FFFFFF&lines=Computer+Science+Student;Exploring+AI+%26+ML;Learning+One+Repo+at+a+Time)
+![Typing SVG](https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1000&color=36BCF7&lines=Computer+Science+Student;Exploring+AI+%26+ML;Learning+One+Repo+at+a+Time)
+
 
 
 <br/>
