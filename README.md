@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=8A2BE2&width=650&lines=CSE+Student+from+India;Learning+in+Public+One+Day+at+a+Time;Building+Projects+%26+Sharing+the+Journey;Exploring+AI+%2F+ML+%26+Web+Development;Currently+Turning+Curiosity+Into+Skills" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=4287f5&width=650&lines=CSE+Student;Learning+in+Public+One+Day+at+a+Time;Building+Projects+%26+Sharing+the+Journey;Exploring+AI+%2F+ML+%26+Web+Development;Currently+Turning+Curiosity+Into+Skills" />
 </p>
 
 <br/>
