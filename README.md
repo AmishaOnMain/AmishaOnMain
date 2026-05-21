@@ -1,25 +1,22 @@
-<h1 align="center">Hey, I'm Amisha 👋</h1>
-<h3 align="center">CSE Undergraduate | Learning by Building</h3>
+<h1 align="center">Hey There, This is Amisha 👋</h1>
+<h3 align="center">CSE Undergraduate • Learning in Public • Building My Way Into Tech</h3>
 
 <br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=36BCF7&width=500&lines=Computer+Science+Student;Exploring+AI+%26+ML;Learning+One+Repo+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=8A2BE2&width=650&lines=CSE+Student+from+India;Learning+in+Public+One+Day+at+a+Time;Building+Projects+%26+Sharing+the+Journey;Exploring+AI+%2F+ML+%26+Web+Development;Currently+Turning+Curiosity+Into+Skills" />
 </p>
 
-
-
-
 <br/>
-
-
 
 ---
 
 ## ✨ About Me
-- 🎓 CSE student  
-- 💻 Learning through hands-on coding  
-- 🌱 Focused on consistency over motivation  
-- 🧠 Interested in Python & AI/ML  
+- 🎓 First-year CSE student  
+- 💻 Learning by building real projects  
+- 🌱 Focused on consistency, not perfection  
+- 🧠 Exploring AI/ML, development & problem-solving  
+
 
 ---
 
@@ -33,28 +30,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviatrix999&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviatrix999&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aviatrix999&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aviatrix999&theme=tokyonight&hide_border=true" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviatrix999&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviatrix999&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Projects
-
+- 📝 iTask — Minimal task manager built with React  
+- 🎵 Spotify Clone — Music UI clone project  
+- 🎬 Netflix Clone — Streaming platform UI recreation  
 
 ---
+
 ## 🤝 Connect With Me
-- GitHub: https://github.com/aviatrix999
-- LinkedIn: www.linkedin.com/in/amisha-patel-481917376
+- GitHub: https://github.com/aviatrix999  
+- LinkedIn: www.linkedin.com/in/amisha-patel-481917376  
+
 <p align="center">
-  Learning quietly. Building steadily.
+  <i>Still learning. Still building. Still showing up.</i>
 </p>
