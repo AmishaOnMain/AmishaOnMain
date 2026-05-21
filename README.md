@@ -20,25 +20,24 @@
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,vscode" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviatrix999&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aviatrix999&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviatrix999&layout=compact&theme=radical&hide_border=true" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aviatrix999&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviatrix999&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=aviatrix999&theme=radical&hide_border=true" 
+  />
 </p>
 
 ---
