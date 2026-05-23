@@ -33,17 +33,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviatrix999&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmishaOnMain&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aviatrix999&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AmishaOnMain&theme=dark&hide_border=true" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviatrix999&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaOnMain&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
