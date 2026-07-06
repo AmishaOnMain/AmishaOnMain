@@ -55,7 +55,7 @@
 ## 🤝 Connect With Me
 - GitHub: https://github.com/aviatrix999
 - LinkedIn: www.linkedin.com/in/amisha-patel-481917376
-- Twitter: https://x.com/_aviatrix_
+- Twitter: [https://x.com/_aviatrix_](https://x.com/AmishaOnMain)
   
 <p align="center">
   Learning quietly. Building steadily.
