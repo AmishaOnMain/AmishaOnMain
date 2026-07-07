@@ -27,7 +27,7 @@
     height="170"
   />
 </p>
-<p align="center>
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaOnMain&layout=compact&theme=github_dark&hide_border=true"
     height="170"
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaOnMain&theme=github-dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaOnMain&theme=github-dark&hide_border=true height="170"
   />
 </p>
 
