@@ -21,13 +21,24 @@
 
 <h1>📊 GitHub Stats</h1>
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=AmishaOnMain&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />  
-</p>  <p align="center">  
-  <img src="https://streak-stats.demolab.com?user=AmishaOnMain&theme=dark&hide_border=true" />  
-</p>  <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaOnMain&layout=compact&theme=dark&hide_border=true" />  
-</p>  
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AmishaOnMain&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+<p align="center>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaOnMain&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaOnMain&theme=github-dark&hide_border=true"
+  />
+</p>
 
 
 <h1>🤝 Connect With Me</h1>
