@@ -47,7 +47,7 @@ GitHub: https://github.com/AmishaOnMain
 
 LinkedIn: www.linkedin.com/in/amisha-patel-481917376
 
-Twitter: https://x.com/aviatrix
+Twitter: https://x.com/AmishaOnMain
 
 
 <p align="center">  
