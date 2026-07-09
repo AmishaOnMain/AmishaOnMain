@@ -36,14 +36,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaOnMain&theme=github-dark&hide_border=true height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaOnMain&theme=github-dark&hide_border=true" height="170"
   />
 </p>
 
 
 <h1>🤝 Connect With Me</h1>
 
-GitHub: https://github.com/aviatrix999
+GitHub: https://github.com/AmishaOnMain
 
 LinkedIn: www.linkedin.com/in/amisha-patel-481917376
 
