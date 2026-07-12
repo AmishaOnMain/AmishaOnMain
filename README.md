@@ -19,7 +19,7 @@
 </p>  
 
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1>📊 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmishaOnMain&show_icons=true&theme=github_dark&hide_border=true" />
