@@ -19,19 +19,14 @@
 </p>  
 
 
-<h1>📊 GitHub Stats</h1>
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AmishaOnMain&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmishaOnMain&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaOnMain&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmishaOnMain&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
