@@ -7,16 +7,45 @@
 
 <h1>About Me</h1>
 
-🎓 CSE student
+- 🎓 B.Tech CSE Data Science | NIAT (Ajeenkya D.Y Patil University, Pune)    
+- 💻 Full Stack (MERN)  
 
-💻 Learning through hands-on coding
+---
+
+<h1>Skill Set</h1>
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
+</p>
+
+<h3 align="center">⚙️ Backend & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,dotnet" />
+</p>
+
+<h3 align="center">🗄 Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+<h3 align="center">🖥 Operating Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+<h3 align="center">🧰 Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,bash,powershell,vscode,visualstudio,pycharm,androidstudio,postman" />
+</p>
 
 
-<h1>🛠 Tech Stack</h1>
-
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,vscode" />  
-</p>  
+---
 
 
 <h1>📊 GitHub Stats</h1>
@@ -35,6 +64,17 @@
   />
 </p>
 
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmishaOnMain&theme=react-dark" />
+</p>
+
+---
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=AmishaOnMain" />
+</div>
+
 
 <h1>🤝 Connect With Me</h1>
 
@@ -46,5 +86,5 @@ Twitter: https://x.com/AmishaOnMain
 
 
 <p align="center">  
-  Learning quietly. Building steadily.  
+  Lets's Connect and Learn Together! 
 </p>     
