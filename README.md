@@ -41,7 +41,7 @@
 
 <h3 align="center">🧰 Tools & IDEs</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,bash,powershell,vscode,visualstudio,pycharm,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,bash,powershell,vscode,visualstudio,pycharm,androidstudio,postman,googlecolab" />
 </p>
 
 
@@ -64,7 +64,7 @@
   />
 </p>
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmishaOnMain&theme=react-dark" />
