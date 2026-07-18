@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Amisha Patel👋</h1>
 
-<h3 align="center">CSE Undergraduate | Learning by Building</h3>  <br/>  
+<h3 align="center">CSE Undergraduate | Agressively Building</h3>  <br/>  
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=36BCF7&width=500&lines=Computer+Science+Student;Exploring+AI+%26+ML;Learning+One+Repo+at+a+Time" />  
 </p>  <br/>  
