@@ -1,14 +1,14 @@
-<h1 align="center">Hey, I'm Amisha Patel👋</h1>
+<h1 align="center">Hey There, I'm Amisha Patel 🙋🏻‍♀️</h1>
 
-<h3 align="center">CSE Undergraduate | Agressively Building</h3>  <br/>  
+<h3 align="center">Full Stack Developer | Aspiring Data Science</h3>  <br/>  
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=36BCF7&width=500&lines=Computer+Science+Student;Exploring+AI+%26+ML;Learning+One+Repo+at+a+Time" />  
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=1500&color=36BCF7&width=500&lines=Building+Daily;Learning+Publicly;Skillset+Over+Degree" />  
 </p>  <br/>  
 
 <h1>About Me</h1>
 
-- 🎓 B.Tech CSE Data Science | NIAT (Ajeenkya D.Y Patil University, Pune)    
-- 💻 Full Stack (MERN)  
+- 🎓 I am pursuing B.Tech in CSE, Data Science @NIAT (Ajeenkya D.Y Patil University, Pune)
+- Currently in 2nd year   
 
 ---
 
@@ -76,7 +76,7 @@
 </div>
 
 
-<h1>🤝 Connect With Me</h1>
+<h1>🤝 Lets's Connect and Build Together! </h1>
 
 GitHub: https://github.com/AmishaOnMain
 
@@ -84,7 +84,4 @@ LinkedIn: www.linkedin.com/in/amisha-patel-481917376
 
 Twitter: https://x.com/AmishaOnMain
 
-
-<p align="center">  
-  Lets's Connect and Learn Together! 
-</p>     
+---   
